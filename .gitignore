@@ -1,2 +1,10 @@
 *.xlsx
 ignoremeplease.txt
+
+# yandex-afisha-ticket-bot
+yandex-afisha-ticket-bot/.env
+yandex-afisha-ticket-bot/state.json
+yandex-afisha-ticket-bot/page.html
+yandex-afisha-ticket-bot/venv/
+__pycache__/
+*.pyc
